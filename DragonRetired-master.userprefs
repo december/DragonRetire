@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/Environment/AbstractGrids/Stone.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/Items/AbstractGrids/Wood.cs" Line="19" Column="33" />
+      <File FileName="Assets/_Scripts/Prince/Prince.cs" Line="283" Column="73" />
+      <File FileName="Assets/_Scripts/Items/AbstractGrids/Rock.cs" Line="44" Column="5" />
+      <File FileName="Assets/_Scripts/Prince/PrinceController.cs" Line="153" Column="16" />
+      <File FileName="Assets/_Scripts/Mechanism/Ladder/LadderHead.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Environment/AbstractGrids/Water.cs" Line="69" Column="4" />
+      <File FileName="Assets/_Scripts/Mechanism/Elevator/Elevator.cs" Line="35" Column="4" />
+      <File FileName="Assets/_Scripts/Mechanism/Elevator/ElevatorPlaten.cs" Line="196" Column="67" />
+      <File FileName="Assets/_Scripts/DemoScene/PedalAndStone.cs" Line="9" Column="2" />
+      <File FileName="Assets/_Scripts/Items/AbstractGrids/Gel.cs" Line="45" Column="3" />
+      <File FileName="Assets/_Scripts/Environment/AbstractGrids/Stone.cs" Line="77" Column="78" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
